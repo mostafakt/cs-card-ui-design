@@ -1,0 +1,22 @@
+.TitleDiv {
+  background-color: white;
+  width: 1140px !important;
+}
+
+.Post {
+  margin-top: 600px;
+}
+
+.Dis {
+  padding-left: 1px;
+  padding-right: 9px !important;
+  background-color: aqua;
+}
+
+.firstTitle {
+  text-align: center;
+  color: #2F435B;
+  font-weight: 200;
+  padding-bottom: 10px;
+}
+/*# sourceMappingURL=Style.css.map */
